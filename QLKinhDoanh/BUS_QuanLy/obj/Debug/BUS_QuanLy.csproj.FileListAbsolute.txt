@@ -1,0 +1,22 @@
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.AssemblyReference.cache
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.AssemblyReference.cache
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb

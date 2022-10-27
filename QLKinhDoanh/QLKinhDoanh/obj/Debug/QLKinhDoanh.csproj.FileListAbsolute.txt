@@ -1,0 +1,79 @@
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\bin\Debug\QLKinhDoanh.exe.config
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\bin\Debug\QLKinhDoanh.exe
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\bin\Debug\QLKinhDoanh.pdb
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.AssemblyReference.cache
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.Form1.resources
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmAdmin.resources
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmHoadon.resources
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmKho.resources
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmLoaiHang.resources
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmLogin.resources
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmNhacungcap.resources
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmThemSanPham.resources
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.Properties.Resources.resources
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.GenerateResource.cache
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.CoreCompileInputs.cache
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.exe
+D:\Study\Lap trinh window\BaitapLon\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.pdb
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\bin\Debug\QLKinhDoanh.exe.config
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\bin\Debug\QLKinhDoanh.exe
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\bin\Debug\QLKinhDoanh.pdb
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\bin\Debug\BUS_QuanLy.dll
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\bin\Debug\DTO_QuanLy.dll
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\bin\Debug\DAL_QuanLy.dll
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\bin\Debug\BUS_QuanLy.pdb
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\bin\Debug\DTO_QuanLy.pdb
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\bin\Debug\DAL_QuanLy.pdb
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.AssemblyReference.cache
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.Form1.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmAdmin.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmHoadon.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmKho.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmLoaiHang.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmLogin.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmNhacungcap.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmStaff.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmThemLoaiSP.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmThongke.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.Properties.Resources.resources
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.GenerateResource.cache
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.CoreCompileInputs.cache
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.CopyComplete
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.exe
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.pdb
+D:\Study\Lap trinh window\Tài liệu\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmTddd.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\QLKinhDoanh.exe.config
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\QLKinhDoanh.exe
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\QLKinhDoanh.pdb
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\BUS_QuanLy.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\ClosedXML.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\DTO_QuanLy.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\ExcelNumberFormat.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\System.IO.Packaging.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\DAL_QuanLy.dll
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\BUS_QuanLy.pdb
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\DTO_QuanLy.pdb
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\ClosedXML.pdb
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\ClosedXML.xml
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\ExcelNumberFormat.xml
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\bin\Debug\DAL_QuanLy.pdb
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.AssemblyReference.cache
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.Form1.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmAdmin.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmHoadon.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmKho.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmLoaiHang.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmLogin.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmNhacungcap.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmStaff.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmThemLoaiSP.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmTddd.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.frmThongke.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.Properties.Resources.resources
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.GenerateResource.cache
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.CoreCompileInputs.cache
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.csproj.CopyComplete
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.exe
+D:\Study\Lap trinh window\Bai tap thuc hanh mon LT tren Windows\QLKinhDoanh\QLKinhDoanh\obj\Debug\QLKinhDoanh.pdb
